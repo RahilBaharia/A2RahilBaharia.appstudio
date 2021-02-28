@@ -1,3 +1,4 @@
+//commented out this form to run the switch form
 /*
 //get users first name
 let firstName = prompt("What is your first name?")
